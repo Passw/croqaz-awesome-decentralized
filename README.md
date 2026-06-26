@@ -1,6 +1,12 @@
 
 # Awesome distributed, decentralized, p2p apps or tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+# Archived:
+
+**If you look at the last 20 PRs and issues, you'll note they're all AI slop.** I have no patience to review them, therefore I decided to freeze this repo.
+
+## The old readme
+
 **Note**: Links marked with "☠️ " are old and probably no longer maintained.
 
 ### Applications
